@@ -1,0 +1,6 @@
+- id: check-old-easybuild-url
+  name: Search the old easybuild repo url
+  description: Review that the url of the old easybuild git repo is not used
+  entry: pre_commit_hooks/check_old_easybuild_url.sh
+  language: script
+  type: [text]
