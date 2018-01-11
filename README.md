@@ -35,3 +35,5 @@ repos:
     hooks:
       - id: check-old-easybuild-url
 ```
+
+Now you can install the hooks doing `pre-commit install`
