@@ -37,3 +37,6 @@ repos:
 ```
 
 Now you can install the hooks doing `pre-commit install`
+
+See [this example](https://github.com/pescobar/easybuild-easyconfigs/blob/master/.pre-commit-config.yaml) for a more complete
+pre-commit config file.
